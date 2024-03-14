@@ -1,4 +1,5 @@
 node_modules
 .serverless
-policy.json
+reference/policy.json
 .env*
+.DS_Store
