@@ -1,4 +1,4 @@
 node_modules
 .serverless
 policy.json
-.env
+.env*
